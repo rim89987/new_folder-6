@@ -1,0 +1,15 @@
+h1 {
+  font-size: 25px;
+  color: red;
+}
+
+p {
+  color: green;
+  position: relative;
+  padding: 0 0 100px 0;
+}
+p b {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}/*# sourceMappingURL=style.css.map */

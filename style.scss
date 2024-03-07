@@ -1,0 +1,14 @@
+h1 {
+  font-size: 25px;
+  color: red;
+}
+p {
+  color: green;
+  position: relative;
+  padding: 0 0 100px 0;
+  b {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+}
